@@ -8,3 +8,6 @@ Following changes were made:
 - Ability to initialize the pond with multiple fish popuplations (different numbers and colors)
 - Adding 'depth' to Koi class.  Depth affects the fish size (fish that swim deeper are smaller and darker)
 - Rendering fish according to their depth: deeper fish swim below fish that swim on top. 
+- Add turbulence effect mimicking water ripple
+
+![Screenshot](/screenshot-animated.gif?raw=true "Screenshot")
